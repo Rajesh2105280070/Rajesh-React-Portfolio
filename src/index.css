@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@400;600&family=DM+Sans:ital,opsz,wght@0,9..40,600;1,9..40,500&family=Lato&family=Monoton&family=Montserrat:ital,wght@0,700;1,500&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@0,300;0,600;1,400&family=Roboto:wght@300;400&family=Ubuntu&family=Varela+Round&display=swap');
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Outfit', sans-serif;
+}
+
+body{
+  background: black;
+}
+
+h1, h4, p, a{
+  color: white;
+  text-decoration: none;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.btn{
+  padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: rgb(248, 217, 15);
+  color: #222;
+  border: 1px solid #fff;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn-light{
+  /*background-color: rgba(255, 255, 255, 0.2);*/
+  background: transparent;
+  color: #fff;
+}
+
+.btn:hover{
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  transition: 0.3s;
+}
