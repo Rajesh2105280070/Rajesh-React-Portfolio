@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Rajesh-React-Portfolio/static/css/main.59968639.css",
+    "main.js": "/Rajesh-React-Portfolio/static/js/main.67e1fbae.js",
+    "static/media/project1.png": "/Rajesh-React-Portfolio/static/media/project1.91625440b3710bd5d005.png",
+    "static/media/project3.png": "/Rajesh-React-Portfolio/static/media/project3.fbb3c695ece7595eb374.png",
+    "static/media/intro-bg.jpg": "/Rajesh-React-Portfolio/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
+    "static/media/project2.png": "/Rajesh-React-Portfolio/static/media/project2.20fcbb827373521d5378.png",
+    "static/media/react1.jpg": "/Rajesh-React-Portfolio/static/media/react1.d63ca3791694cd8f6f49.jpg",
+    "static/media/react2.webp": "/Rajesh-React-Portfolio/static/media/react2.8aa659a4278a7132e6f4.webp",
+    "index.html": "/Rajesh-React-Portfolio/index.html",
+    "main.59968639.css.map": "/Rajesh-React-Portfolio/static/css/main.59968639.css.map",
+    "main.67e1fbae.js.map": "/Rajesh-React-Portfolio/static/js/main.67e1fbae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59968639.css",
+    "static/js/main.67e1fbae.js"
+  ]
+}
